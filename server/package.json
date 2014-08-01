@@ -1,0 +1,19 @@
+{
+  "name": "resume-creator",
+  "version": "0.0.0",
+  "description": "Dynamically display your resume",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sahilkabra/resume-creator"
+  },
+  "author": "sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilkabra/resume-creator/issues"
+  },
+  "homepage": "https://github.com/sahilkabra/resume-creator"
+}
