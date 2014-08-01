@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/sahilkabra/resume-creator/issues"
   },
-  "homepage": "https://github.com/sahilkabra/resume-creator"
+  "homepage": "https://github.com/sahilkabra/resume-creator",
+  "dependencies": {
+    "express": "> 1.0.0",
+    "mongodb": "> 1.4.0",
+    "morgan": "> 1.0.0"
+  },
+  "devDependencies": {
+    "injectr": "^0.5.1",
+    "jasmine-node": "> 1.0.0"
+  }
 }
