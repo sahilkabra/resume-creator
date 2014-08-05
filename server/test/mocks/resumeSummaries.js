@@ -34,4 +34,4 @@ var summaries = [{
 				}]
 }];
 
-module.exports = summaries;
+module.exports.mock = summaries;
